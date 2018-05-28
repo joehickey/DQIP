@@ -1,1 +1,1 @@
-# H1 Introduction
+# Introduction
